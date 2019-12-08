@@ -3,9 +3,15 @@
 Is an mobile application built using React Native with Expo, It reads hashtags from JSON file and display them by categories. for more information, feel free to contact.
 
 ### Instalation
-1) clone the repo:
-    `git clone https://github.com/KhalilEtTkhyly/HashTag-App.git`
+1) clone the repo:\
+`git clone https://github.com/KhalilEtTkhyly/HashTag-App.git`
 
 2) install dependencies:\
-    `cd HashTag-App`\
-    `npm install`
+`cd HashTag-App`\
+`npm install`
+
+3) Run the app:\
+`npm start`\
+
+In order to run the app on your phsical device, you need a expo app client, you can the client app for [IOS](https://itunes.apple.com/app/apple-store/id982107779) and for [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www).\
+Once you download the app, scan the bar code using your camera and your app should be up and running notice you have to be on the same network (computer and phone).
