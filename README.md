@@ -1,6 +1,6 @@
 # HashTag Expert
 
-Is an mobile application built using React Native with Expo, It reads hashtags from JSON file and display them by categories. for more information, feel free to contact.
+Is an mobile application built using React Native with Expo, It's aim is to help Instagram get more views and followers by adding more relevant hashtags to their posts, It reads hashtags from JSON file and display them by categories. for more information, feel free to contact.
 
 ### Instalation
 1) clone the repo:\
@@ -15,3 +15,6 @@ Is an mobile application built using React Native with Expo, It reads hashtags f
 
 In order to run the app on your phsical device, you need a expo app client, you can the client app for [IOS](https://itunes.apple.com/app/apple-store/id982107779) and for [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www).\
 Once you download the app, scan the bar code using your camera and your app should be up and running notice you have to be on the same network (computer and phone).
+
+### Editing or Adding custom Hashtags
+under `assets` folder there's a file called `hashtags.json`, you can edit or add new hashtags, keep in mind that you have to keep it the way it's structured.
