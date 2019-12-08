@@ -1,8 +1,7 @@
 import React from 'react';
-import { View, ScrollView, Text, Clipboard } from 'react-native';
+import { View, ScrollView, Clipboard, Dimensions } from 'react-native';
 import Badge from '../components/badge'
 import { Button } from 'react-native-elements';
-import Dimensions from 'Dimensions';
 import Hashtags from '../../assets/hashtags.json'
 
 class ProfileScreen extends React.Component {
