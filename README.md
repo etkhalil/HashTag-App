@@ -6,6 +6,6 @@ Is an mobile application built using React Native with Expo, It reads hashtags f
 1) clone the repo:
     `git clone https://github.com/KhalilEtTkhyly/HashTag-App.git`
 
-2) install dependencies:\s\s
-    `cd HashTag-App`\s\s
+2) install dependencies:\
+    `cd HashTag-App`\
     `npm install`
