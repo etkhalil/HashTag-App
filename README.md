@@ -11,7 +11,7 @@ Is an mobile application built using React Native with Expo, It reads hashtags f
 `npm install`
 
 3) Run the app:\
-`npm start`\
+`npm start`
 
 In order to run the app on your phsical device, you need a expo app client, you can the client app for [IOS](https://itunes.apple.com/app/apple-store/id982107779) and for [Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www).\
 Once you download the app, scan the bar code using your camera and your app should be up and running notice you have to be on the same network (computer and phone).
