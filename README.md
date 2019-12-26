@@ -1,6 +1,6 @@
 # HashTag Expert
 
-![alt text](https://raw.githubusercontent.com/KhalilEtTkhyly/HashTag-App/master/screenshots/screen_2.jpeg =150x250)
+![alt text](https://raw.githubusercontent.com/KhalilEtTkhyly/HashTag-App/master/screenshots/screen_2.jpeg | =150x250)
 <!-- ![alt text](https://raw.githubusercontent.com/KhalilEtTkhyly/HashTag-App/master/screenshots/screen_1.jpeg =150x) -->
 
 Is an mobile application built using React Native with Expo, It's aim is to help Instagram get more views and followers by adding more relevant hashtags to their posts, It reads hashtags from JSON file and display them by categories. for more information, feel free to contact.
