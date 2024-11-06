@@ -7,7 +7,7 @@ Is an mobile application built using React Native with Expo, It's aim is to help
 
 ### Instalation
 1) clone the repo:\
-`git clone https://github.com/KhalilEtTkhyly/HashTag-App.git`
+`git clone https://github.com/etkhalil/HashTag-App.git`
 
 2) install dependencies:\
 `cd HashTag-App`\
